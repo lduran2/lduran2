@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm not as active on GitHub as I used to be, but I'm always checking up on it.
+
+I have a lot of unfinished projects. However, if you would like to see one of my projects finished or would like to suggest a feature,
+please feel free to add an Issue to that project, and I will start working on it again at my earliest convenience.
+
+Thank you very much!
+
 <!--
 **lduran2/lduran2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
